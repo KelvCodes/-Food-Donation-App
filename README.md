@@ -41,7 +41,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 
 2️⃣ **Search for Food** – Users in need can browse available food near them. 🔍  
 
-3️⃣ v
+3️⃣ **Contact Donors** – Get in touch with donors to arrange pickup. 📩 
 4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
 
 
