@@ -43,6 +43,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 3️⃣ **View on Map** – Easily locate food pickup spots. 🗺️
 
 4️⃣ **Contact Donors** – Get in touch with donors to arrange pickup. 📩 
+
 4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
 
 
