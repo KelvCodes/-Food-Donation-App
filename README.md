@@ -64,7 +64,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 
 ## 🤝 Contributing  
 
-Want to make thiseven better? We’d love your help! 💡  
+Want to make this even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
