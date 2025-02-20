@@ -31,7 +31,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | Styling and layout |
 | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | Frontend interactivity |
 | ![LocalStorage](https://img.shields.io/badge/LocalStorage-FF5733?style=for-the-badge) | Saves data locally |
-
+| ![Google Maps API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=for-the-badge&logo=google-maps&logoColor=white) | Location-based search |
 
 
 ---
