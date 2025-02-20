@@ -41,8 +41,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 
 2️⃣ **Search for Food** – Users in need can browse available food near them. 🔍  
 
-3️⃣ **Stay Updated** – Set reminders for follow-ups and deadlines. 🔔
-
+3️⃣ v
 4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
 
 
