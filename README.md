@@ -6,7 +6,8 @@ A **simple and impactful** web app that connects people with **excess food** to 
 ---
 
 ## 🌟 Features  
-- ✅ **📌 Track Job Applications** – Keep all your job applications in one place.
+- A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
+**Reduce food waste, fight hunger, and build a caring community.** ❤️
 - ✅ **📅 Status Updates** – Mark jobs as **applied, interviewed, or offered**. 
 - ✅ **🔔 Smart Alerts** – Get reminders for follow-ups and deadlines.  .  
 - ✅ **🎨 Sleek UI & Transitions** – A visually stunning and user-friendly design.  
