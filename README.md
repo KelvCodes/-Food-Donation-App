@@ -40,8 +40,8 @@ A **simple and impactful** web app that connects people with **excess food** to 
 1️⃣ **Add Food Listing** – Donors can upload details about available food. 🥖🥦  
 
 2️⃣ **Search for Food** – Users in need can browse available food near them. 🔍  
-**View on Map** – Easily locate food pickup spots. 🗺️
-3️⃣ **Contact Donors** – Get in touch with donors to arrange pickup. 📩 
+3️⃣ **View on Map** – Easily locate food pickup spots. 🗺️
+ **Contact Donors** – Get in touch with donors to arrange pickup. 📩 
 4️⃣ **Download Your List** – Export your job applications for easy access. 📥  
 
 
