@@ -8,7 +8,8 @@ A **simple and impactful** web app that connects people with **excess food** to 
 ## 🌟 Features  
 - A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
 **Reduce food waste, fight hunger, and build a caring community.** ❤️
-- ✅ **📅 Status Updates** – Mark jobs as **applied, interviewed, or offered**. 
+- A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
+**Reduce food waste, fight hunger, and build a caring community.** ❤️
 - ✅ **🔔 Smart Alerts** – Get reminders for follow-ups and deadlines.  .  
 - ✅ **🎨 Sleek UI & Transitions** – A visually stunning and user-friendly design.  
 - ✅ **🌙 Dark Mode** – Work comfortably in any lighting condition.  
