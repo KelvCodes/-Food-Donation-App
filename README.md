@@ -9,7 +9,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 - A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
 **Reduce food waste, fight hunger, and build a caring community.** ❤️
 - A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
-**Reduce food waste, fight hunger, and build a caring community.** ❤️
+-✅**Reduce food waste, fight hunger, and build a caring community.** ❤️
 - ✅  **🗺️ Map Integration** – View food pickup locations on Google Maps.
 -  ✅ **🎨 Sleek & Modern UI** – Beautiful, responsive, and easy to use.   
 - ✅ **📩 Contact Donors** – Message donors directly for food collection. 
