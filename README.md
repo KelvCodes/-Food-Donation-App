@@ -44,7 +44,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 
 4️⃣ **Contact Donors** – Get in touch with donors to arrange pickup. 📩 
 
- 
+5️⃣ **Enjoy a Simple UI** – Seamless experience on any device. 📱💻 
 
 
 
