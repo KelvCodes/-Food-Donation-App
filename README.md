@@ -37,7 +37,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 ---
 
 ## 🚀 How to Use 
-1️⃣ **Add a Job** – Enter job details like company, position, and application date. 🏢  
+1️⃣ **Add Food Listing** – Donors can upload details about available food. 🥖🥦  
 
 2️⃣ **Track Your Progress** – Mark jobs as **Applied, Interviewed, or Offered**. 🎯  
 
