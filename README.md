@@ -1,6 +1,6 @@
 # 🍽️ Community Food Sharing Platform 
 
-A **simple y impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
+A **simple ye impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
 **Reduce food waste, fight hunger, and build a caring community.** ❤️
 
 ---
