@@ -6,7 +6,7 @@ A **simple and impactful** web app that connects people with **excess food** to 
 ---
 
 ## 🌟 Features  
-- ✅ A **simple yempactful** web app that connects people with **excess food** to those in need! 🤝🥗  
+- ✅ A **simple yetmpactful** web app that connects people with **excess food** to those in need! 🤝🥗  
 **Reduce food waste, fight hunger, and build a caring community.** ❤️
 - ✅A **simple and impactful** web app that connects people with **excess food** to those in need! 🤝🥗  
 - ✅**Reduce food waste, fight hunger, and build a caring community.** ❤️
