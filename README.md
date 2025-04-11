@@ -19,7 +19,7 @@ A **simple yet impactful** web app that connects people with **excess food** to 
 ---      
 ## 🎬 Live Demo 
 
-🔗 **[Try It Now](https://ai-powered-los)**  
+🔗 **[Try It Now](https://ai-power)**  
 
 
 ---
