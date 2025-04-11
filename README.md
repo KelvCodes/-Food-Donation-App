@@ -64,7 +64,7 @@ A **simple yet impactful** web app that connects people with **excess food** to 
 
 ## 🤝 Contributing  
 
-Want to make this Community Foo Web App even better? We’d love your help! 💡  
+Want to make this Community Food Web App even better? We’d love your help! 💡  
 1. Fork this repository.  
 2. Create a new branch:  
    ```bash  
