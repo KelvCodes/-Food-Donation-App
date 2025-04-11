@@ -19,7 +19,7 @@ A **simple yet impactful** web app that connects people with **excess food** to 
 ---      
 ## 🎬 Live Demo 
 
-🔗 **[Try It Now](https:/wer)**  
+🔗 **[Try It Now](httr)**  
 
 
 ---
